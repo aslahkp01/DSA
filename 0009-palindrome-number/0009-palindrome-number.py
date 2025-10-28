@@ -4,9 +4,13 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        x_str=str(x)
-        if x_str == x_str[::-1] :
-            return True
-        else :
+        if x<0 :
             return False
+        orginal=x
+        rev=0
+        while x>0 :
+            rev=rev*10 + x%10
+            x=x//10
+        return rev==orginal
+    
          
