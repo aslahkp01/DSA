@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aslahkp01/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/aslahkp01/DSA/tree/master/0066-plus-one) |
+| [2998-count-symmetric-integers](https://github.com/aslahkp01/DSA/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
 | ------- |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aslahkp01/DSA/tree/master/0219-contains-duplicate-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/aslahkp01/DSA/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
