@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aslahkp01/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/aslahkp01/DSA/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/aslahkp01/DSA/tree/master/0941-sort-array-by-parity) |
+| [1940-maximum-xor-for-each-query](https://github.com/aslahkp01/DSA/tree/master/1940-maximum-xor-for-each-query) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aslahkp01/DSA/tree/master/0136-single-number) |
+| [1940-maximum-xor-for-each-query](https://github.com/aslahkp01/DSA/tree/master/1940-maximum-xor-for-each-query) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/aslahkp01/DSA/tree/master/0119-pascals-triangle-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1940-maximum-xor-for-each-query](https://github.com/aslahkp01/DSA/tree/master/1940-maximum-xor-for-each-query) |
 <!---LeetCode Topics End-->
