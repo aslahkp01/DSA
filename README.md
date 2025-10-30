@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aslahkp01/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aslahkp01/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aslahkp01/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/aslahkp01/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/aslahkp01/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/aslahkp01/DSA/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/aslahkp01/DSA/tree/master/0941-sort-array-by-parity) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aslahkp01/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aslahkp01/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aslahkp01/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/aslahkp01/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aslahkp01/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aslahkp01/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aslahkp01/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/aslahkp01/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/aslahkp01/DSA/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/aslahkp01/DSA/tree/master/0941-sort-array-by-parity) |
 ## Math
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/aslahkp01/DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/aslahkp01/DSA/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/aslahkp01/DSA/tree/master/0268-missing-number) |
 | [2998-count-symmetric-integers](https://github.com/aslahkp01/DSA/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aslahkp01/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/aslahkp01/DSA/tree/master/0268-missing-number) |
 | [1940-maximum-xor-for-each-query](https://github.com/aslahkp01/DSA/tree/master/1940-maximum-xor-for-each-query) |
 ## Divide and Conquer
 |  |
@@ -86,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/aslahkp01/DSA/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/aslahkp01/DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
