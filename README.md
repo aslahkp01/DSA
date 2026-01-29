@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aslahkp01/DSA/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/aslahkp01/DSA/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/aslahkp01/DSA/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/aslahkp01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/aslahkp01/DSA/tree/master/1940-maximum-xor-for-each-query) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aslahkp01/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/aslahkp01/DSA/tree/master/0344-reverse-string) |
 | [0941-sort-array-by-parity](https://github.com/aslahkp01/DSA/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/aslahkp01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/aslahkp01/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/aslahkp01/DSA/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/aslahkp01/DSA/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/aslahkp01/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
