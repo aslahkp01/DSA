@@ -3,9 +3,9 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        non_zero=0
+        j=0
         for i in range(len(nums)) :
-            if nums[i]!=0 :
-                nums[non_zero],nums[i]=nums[i],nums[non_zero]
-                non_zero +=1
-       
+            if nums[i]!=0:
+                nums[j],nums[i]=nums[i],nums[j]
+                j+=1
+        
