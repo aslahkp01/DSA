@@ -1,13 +1,11 @@
-class Solution(object):
-    def removeElement(self, nums, val):
-        """
-        :type nums: List[int]
-        :type val: int
-        :rtype: int
-        """
-        k=0
-        for i in range(len(nums)):
-            if nums[i]!=val :
-                nums[k]=nums[i]
-                k+=1
-        return k
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+        slow=0
+        for fast in range(len(nums)) :
+            if nums[fast]!=val :
+                nums[slow]=nums[fast]
+                slow+=1
+        return slow
+            
+
+        
