@@ -1,16 +1,15 @@
-class Solution(object):
-    def isPalindrome(self, x):
-        """
-        :type x: int
-        :rtype: bool
-        """
-        if x<0 :
-            return False
-        orginal=x
+class Solution:
+    def isPalindrome(self, x: int) -> bool:
+        temp=x
         rev=0
-        while x>0 :
-            rev=rev*10 + x%10
+        while x>0:
+            digit=x%10
+            rev=10*rev+digit
             x=x//10
-        return rev==orginal
-    
-         
+        if rev==temp:
+            return True
+        else :
+            return False
+            
+
+        
