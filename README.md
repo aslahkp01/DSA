@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aslahkp01/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/aslahkp01/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/aslahkp01/DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/aslahkp01/DSA/tree/master/0509-fibonacci-number) |
 | [2998-count-symmetric-integers](https://github.com/aslahkp01/DSA/tree/master/2998-count-symmetric-integers) |
 ## String
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/aslahkp01/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aslahkp01/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/aslahkp01/DSA/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aslahkp01/DSA/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aslahkp01/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/aslahkp01/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
